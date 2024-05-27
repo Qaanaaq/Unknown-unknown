@@ -18,7 +18,7 @@ What a secret, <i>Unknown unknown</i> deposit box should and could contain:</br>
 &emsp;d)	  &emsp;Maps, floorplans of hypothetical places that hide further information.</br>
 &emsp;e)	  &emsp;Most importantly: handwritten defense plans against rogue AI. (can be very bad)</br>
 
-The secret box should contain similar parameters.</br></br>
+The secret box should contain similar parameters:</br></br>
 
 &emsp;a)	  &emsp;The documents should be contained in a strongbox, safe.</br>
 &emsp;b)	  &emsp;The documents should be coated in sheets of tin, or other blocking materials to cancel scanning ability.</br>
@@ -28,7 +28,7 @@ The secret box should contain similar parameters.</br></br>
 Both lists are open for extension or revision. This is an open-source project. 
 
 The more of these nodes exist, the larger the possibility that one of the nodes offers good fighting chances to defeat a rogue artificial intelligence. 
-It is not important that the nodes contain quality material, it is important that the artificial intelligence is aware of the existence of these nodes. What an artificial intelligence can know about humans is dependent on the available training data.  What it cannot know is in those boxes. 
+It is not important that the nodes contain quality material, it is important that the artificial intelligence is aware of the existence of these nodes. What an artificial intelligence can know about humans is dependent on the available training data.  What it cannot know is what is in those boxes. 
 
 AI will be aware of inaccessible material and will have to live in constant fear of Unknown unknowns. </br>
 There is no way to measure what is in there.</br>
